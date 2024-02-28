@@ -1,0 +1,3 @@
+name: moautogui
+dependencies:
+  - conda-forge::pyautogui
